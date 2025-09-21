@@ -1,39 +1,39 @@
 # Core Posture
 
-**Core Posture** è un software innovativo per il monitoraggio e la correzione della postura in tempo reale.  
-Utilizzando la webcam del computer, rileva la posizione del corpo e avvisa l’utente quando assume una postura scorretta, aiutando a prevenire dolori muscolari e articolari.
+**Core Posture** is an innovative software for real-time posture monitoring and correction.
+Using your computer’s webcam, it detects body position and alerts the user when an incorrect posture is assumed, helping to prevent muscle and joint pain.
 
 ---
 
-## ✨ Funzionalità principali
+## ✨ Features
 
-- 📷 **Monitoraggio in tempo reale** tramite webcam
-- ⚡ **Avvisi intelligenti** (visivi o sonori) per correggere la postura subito
-- 📊 **Dashboard** con statistiche giornaliere, settimanali e mensili
-- 📝 **Reportistica PDF** da condividere con specialisti o per uso personale
-- 👩‍⚕️ **Modalità professionale** per fisioterapisti e aziende (gestione multi-utente)
-- 💾 **Salvataggio dati in locale** con possibilità di consultazione storica
-- 🚀 **Installazione semplice**: un solo file eseguibile, nessuna configurazione aggiuntiva
-
----
-
-## 🎯 Perché usarlo
-
-- Migliora il benessere quotidiano al computer
-- Previene problemi a schiena, collo e spalle
-- Motiva l’utente con dati concreti sui progressi
-- È adatto sia a utenti privati che a professionisti del settore sanitario
+- 📷 **Real-time Monitoring**: Tracks posture continuously via webcam.
+- ⚡ **Smart Alerts**: Visual or sound notifications for instant posture correction.
+- 📊 **Dashboard**: Displays daily, weekly, and monthly posture statistics.
+- 📝 **PDF Reporting**: Export detailed reports for personal use or to share with specialists.
+- 👩‍⚕️ **Professional Mode**: Multi-user management for physiotherapists and companies.
+- 💾 **Local Data Storage**: All data is stored locally with historical records available.
+- 🚀 **Easy Installation**: Single executable file; no additional setup required.
 
 ---
 
-## 🔧 Installazione
+## 🎯 Benefits
 
-1. Scarica l’ultima release.
-2. Avvia il file eseguibile.
-3. Funziona anche offline e non richiede dipendenze esterne.
+- Improves daily well-being while using a computer
+- Helps prevent back, neck, and shoulder issues
+- Motivates users with concrete progress data
+- Suitable for private users and healthcare professionals
 
 ---
 
-## 🌐 Link utili
+## 🔧 Installation
 
-- [Sito ufficiale](https://coreposture.altervista.org/)
+1. Download the latest release.
+2. Run the executable file.
+3. Works offline and requires no external dependencies.
+
+---
+
+## 🌐 Useful Links
+
+- [Official website](https://coreposture.altervista.org/)
