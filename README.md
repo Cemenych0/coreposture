@@ -37,3 +37,7 @@ Using your computer’s webcam, it detects body position and alerts the user whe
 ## 🌐 Useful Links
 
 - [Official website](https://coreposture.altervista.org/)
+
+## Authors
+
+- [@Cemenych0](https://www.github.com/Cemenych0)
