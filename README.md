@@ -48,7 +48,6 @@ Using your computer’s webcam, it detects body position and alerts the user whe
 - [@Cemenych0](https://www.github.com/Cemenych0)
 
 ---
-## References 
 [Qt.io]: https://img.shields.io/badge/PySide6-6.4%2B-41CD52?logo=qt&logoColor=white
 [PySide6-url]: https://www.qt.io/qt-for-python
 [OpenCV.org]: https://img.shields.io/badge/OpenCV-4.5%2B-green?logo=opencv&logoColor=white
