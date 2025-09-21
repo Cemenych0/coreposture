@@ -1,6 +1,5 @@
 # Core Posture
 
-[][Python-url]
 [![PySide6][Qt.io]][PySide6-url] 
 [![OpenCV][OpenCV.org]][OpenCV-url]
 [![MediaPipe][MediaPipe.dev]][MediaPipe-url]
@@ -50,8 +49,6 @@ Using your computer’s webcam, it detects body position and alerts the user whe
 
 ---
 ## References 
-[Python.org]: https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white
-[Python-url]: https://www.python.org/
 [Qt.io]: https://img.shields.io/badge/PySide6-6.4%2B-41CD52?logo=qt&logoColor=white
 [PySide6-url]: https://www.qt.io/qt-for-python
 [OpenCV.org]: https://img.shields.io/badge/OpenCV-4.5%2B-green?logo=opencv&logoColor=white
