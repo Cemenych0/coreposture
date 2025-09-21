@@ -1,5 +1,11 @@
 # Core Posture
 
+[][Python-url]
+[![PySide6][Qt.io]][PySide6-url] 
+[![OpenCV][OpenCV.org]][OpenCV-url]
+[![MediaPipe][MediaPipe.dev]][MediaPipe-url]
+[![NumPy][NumPy.org]][NumPy-url]
+
 **Core Posture** is an innovative software for real-time posture monitoring and correction.
 Using your computer’s webcam, it detects body position and alerts the user when an incorrect posture is assumed, helping to prevent muscle and joint pain.
 
@@ -41,3 +47,16 @@ Using your computer’s webcam, it detects body position and alerts the user whe
 ## Authors
 
 - [@Cemenych0](https://www.github.com/Cemenych0)
+
+---
+## References 
+[Python.org]: https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white
+[Python-url]: https://www.python.org/
+[Qt.io]: https://img.shields.io/badge/PySide6-6.4%2B-41CD52?logo=qt&logoColor=white
+[PySide6-url]: https://www.qt.io/qt-for-python
+[OpenCV.org]: https://img.shields.io/badge/OpenCV-4.5%2B-green?logo=opencv&logoColor=white
+[OpenCV-url]: https://opencv.org/
+[MediaPipe.dev]: https://img.shields.io/badge/MediaPipe-0.8%2B-orange?logo=mediapipe&logoColor=white
+[MediaPipe-url]: https://mediapipe.dev/
+[NumPy.org]: https://img.shields.io/badge/NumPy-1.21%2B-013243?logo=numpy&logoColor=white
+[NumPy-url]: https://numpy.org/
